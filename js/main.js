@@ -156,6 +156,8 @@ setTimeout(() => {
   btns.forEach(btn => {
     btn.addEventListener('click', e => {
       e.preventDefault()
+      document.querySelectorAll('.valHrs').forEach(el => el.textContent = 0)
+      document.querySelectorAll('.valLastWeek').forEach(el => el.textContent = 0)
       btns.forEach(a => a.classList.remove('active'))
       stat = e.target.textContent.toLowerCase()
       e.target.classList.add('active')
