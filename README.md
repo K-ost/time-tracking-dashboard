@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/K-ost?tab=repositories](https://github.com/K-ost?tab=repositories)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/K-ost/time-tracking-dashboard](https://github.com/K-ost/time-tracking-dashboard)
+- Live Site URL: [https://k-ost.github.io/time-tracking-dashboard/](https://k-ost.github.io/time-tracking-dashboard/)
 
 ## My process
 
